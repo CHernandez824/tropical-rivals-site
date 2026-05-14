@@ -7,6 +7,8 @@ title: Tropical Rivals
 
 ![Tropical Rivals Logo](Tropical%20Rivals%20Transparent%20Logo.png)
 
+# Introduction
+
 Tropical Rivals is a 2D roguelike game where players control an Octo and survive against waves of enemies in an oceanic region. The game includes a standard wave mode and an Endless Mode, where enemy stats gradually increase as the player clears more waves. This project focuses on creating a simple, replayable, and competitive gameplay experience that can be enjoyed casually or challenged at higher difficulty levels.
 
 ## Gameplay Features
