@@ -1,11 +1,11 @@
 ---
-layout: home
+layout: default
 title: Tropical Rivals
 ---
 
-# **Tropical Rivals**
-
-![Tropical Rivals Logo](Tropical%20Rivals%20Transparent%20Logo.png)
+<div align="center">
+  <img src="Tropical%20Rivals%20Transparent%20Logo.png" alt="Tropical Rivals Logo" width="450">
+</div>
 
 # Introduction
 
